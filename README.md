@@ -17,8 +17,8 @@ In my profile you can see a few of the projects I have done and contributed to.
 
 ## 🛠️ Technologies
 
- ** Programming Languages: Java, PHP, JavaScript, Python, ASP.NET Core.
- ** Frameworks and Web Design: MVC, HTML, CSS, Bootstrap, Adobe XD.
- ** Databases: PL/SQL, Oracle, MySQL, PostgreSQL. 
- ** Tools: Office 365, Canva, GitHub, AI Tools, Supabase, Firebase. 
- ** Methodologies: Scrum
+- ** Programming Languages:** Java, PHP, JavaScript, Python, ASP.NET Core.
+- ** Frameworks and Web Design:** MVC, HTML, CSS, Bootstrap, Adobe XD.
+- ** Databases:** PL/SQL, Oracle, MySQL, PostgreSQL. 
+- ** Tools:** Office 365, Canva, GitHub, AI Tools, Supabase, Firebase. 
+- ** Methodologies:** Scrum
