@@ -11,7 +11,7 @@ In my profile you can see a few of the projects I have done and contributed to.
 - 💻 Passionate about programming, interface design, and problem-solving
 - 📍 Location: Costa Rica
 - 🗣️ Languages: Spanish (native), English (intermediate/advanced)
-- 📬 Contact: [sbriones284@gmail.com] | [[LinkedIn](https://www.linkedin.com/in/sebas-briones-291633262/)]
+- 📬 Contact: [sbriones284@gmail.com] | [[LinkedIn](https://www.linkedin.com/in/sebas-briones-291633262/)] | [[Portfolio](sebasExec.github.io)]
 
 ---
 
