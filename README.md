@@ -1,9 +1,24 @@
 # Hi I'm Sebas 👋
 
-I'm passionate about open source and web development.  
-Here are some open source projects I've contributed to — including work from another GitHub account:
+I'm a Systems Engineering student interested in web development, software, and emerging technologies. I love contributing to projects, learning new things, and working in a team.
+In my profile you can see a few of the projects I have done and contributed to.
 
+---
 
-- 🧩 [Cool Project](https://github.com/otra-cuenta/cool-project): Fixed UI bugs and improved responsiveness
-- 🚀 [API Tool](https://github.com/otra-cuenta/api-tool): Added endpoint validation and wrote tests
-- 📚 [Documentation Repo](https://github.com/otra-cuenta/docs): Improved readability and consistency
+## 📌 About me
+
+- 🎓 Systems Engineering Student
+- 💻 Passionate about programming, interface design, and problem-solving
+- 📍 Location: Costa Rica
+- 🗣️ Languages: Spanish (native), English (intermediate/advanced)
+- 📬 Contact: [sbriones284@gmail.com] | [[LinkedIn](https://www.linkedin.com/in/sebas-briones-291633262/)]
+
+---
+
+## 🛠️ Technologies
+
+ ** Programming Languages: Java, PHP, JavaScript, Python, ASP.NET Core.
+ ** Frameworks and Web Design: MVC, HTML, CSS, Bootstrap, Adobe XD.
+ ** Databases: PL/SQL, Oracle, MySQL, PostgreSQL. 
+ ** Tools: Office 365, Canva, GitHub, AI Tools, Supabase, Firebase. 
+ ** Methodologies: Scrum
