@@ -1,6 +1,6 @@
 # Hi I'm Sebas 👋
 
-I'm a Systems Engineering student interested in web development, software, and emerging technologies. I love contributing to projects, learning new things, and working in a team.
+I'm a Systems Engineering interested in web development, software, and emerging technologies. I love contributing to projects, learning new things, and working in a team.
 In my profile you can see a few of the projects I have done and contributed to.
 
 ---
