@@ -7,7 +7,7 @@ In my profile you can see a few of the projects I have done and contributed to.
 
 ## 📌 About me
 
-- 🎓 Systems Engineering Student
+- 🎓 Systems Engineering 
 - 💻 Passionate about programming, interface design, and problem-solving
 - 📍 Location: Costa Rica
 - 🗣️ Languages: Spanish (native), English (intermediate/advanced)
